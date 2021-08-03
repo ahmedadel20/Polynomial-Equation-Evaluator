@@ -1,0 +1,2 @@
+C:\Users\NyteStar\source\repos\Project32_VS2019\Debug\Project.exe
+C:\Users\NyteStar\source\repos\Project32_VS2019\Debug\Project.pdb
