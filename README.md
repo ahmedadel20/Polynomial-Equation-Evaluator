@@ -1,6 +1,3 @@
-# EquaSolve
-<img src="https://user-images.githubusercontent.com/48753857/179763227-6c15d16e-0216-4f81-a17b-1bf619bd46b3.png" width="250" height="250"/>
-
 # Description
 An assembly console application that solves any given polynomial equation.
 
